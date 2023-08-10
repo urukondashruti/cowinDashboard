@@ -1,0 +1,46 @@
+/* Write your CSS here */
+.back {
+  background-color: #050507;
+  background-size: cover;
+}
+
+.div1 {
+  display: flex;
+  flex-direction: row;
+}
+
+.head {
+  color: #ffffff;
+}
+
+.para {
+  color: #2cc6c6;
+}
+
+.img {
+  height: 50px;
+  width: 50px;
+  margin-top: 20px;
+}
+
+.con7 {
+  margin-left: 100px;
+}
+.con10 {
+  margin-top: 20px;
+  margin-left: 100px;
+}
+
+.con11 {
+  background-color: #050507;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.con9 {
+  height: 100px;
+  width: 100px;
+}
